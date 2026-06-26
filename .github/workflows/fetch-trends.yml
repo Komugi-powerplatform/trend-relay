@@ -1,10 +1,13 @@
 name: fetch-trends
 
-# Runs at 06:50 JST (21:50 UTC), 10 min before the cloud neta-trend Routine
-# (07:00 JST) reads data/latest.json. Also dispatchable for probe/manual runs.
+# Runs at 03:40 JST (18:40 UTC), ~4h before the cloud neta-trend Routine
+# (07:40 JST) reads data/latest.json. The old 10-min margin (06:50 vs 07:00)
+# lost the race whenever GitHub Actions' scheduler ran late (commonly 30-90
+# min), so the Routine read stale/absent data and fell back to thin WebSearch.
+# A wide margin absorbs that delay. Also dispatchable for probe/manual runs.
 on:
   schedule:
-    - cron: "50 21 * * *"
+    - cron: "40 18 * * *"
   workflow_dispatch:
 
 permissions:
