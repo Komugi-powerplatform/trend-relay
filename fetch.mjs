@@ -145,6 +145,12 @@ for (const [k, url] of Object.entries(hatenaFeeds)) {
   );
 }
 
+// Reddit is intentionally NOT collected here: reddit.com 403s datacenter
+// egress (GitHub Actions and the cloud Routine alike) and even rate-limits
+// residential IPs, so a relay fetch would be empty + spam errors[] daily. The
+// cloud Routine keeps Reddit on WebSearch (its 6/25-parity behavior); the
+// local pipeline still curls it from a residential IP.
+
 // ---- write ------------------------------------------------------------------
 const out = {
   generated_at: new Date().toISOString().replace(/:\d\d\.\d+Z$/, "Z"),
