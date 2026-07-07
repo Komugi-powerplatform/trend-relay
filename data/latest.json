@@ -1,411 +1,411 @@
 {
-  "generated_at": "2026-07-06T20:33Z",
+  "generated_at": "2026-07-07T20:30Z",
   "errors": [],
   "zenn": {
     "trending": [
       {
+        "title": "C# で出来ること一覧 2026年版（.NET 10）",
+        "url": "https://zenn.dev/microsoft/articles/what-can-you-do-on-dotnet10",
+        "likes": 57
+      },
+      {
+        "title": "AI Agentに自由な開発環境を渡す、Proxmox+LXCで。",
+        "url": "https://zenn.dev/uzulla/articles/91272997a7c668",
+        "likes": 22
+      },
+      {
         "title": "Cloudflare Workers + better-auth で全リクエストが無応答になる - hanging promise の罠",
         "url": "https://zenn.dev/coji/articles/cloudflare-workers-better-auth-hanging-promise",
-        "likes": 59
-      },
-      {
-        "title": "AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた",
-        "url": "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
-        "likes": 110
-      },
-      {
-        "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
-        "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
-        "likes": 45
+        "likes": 73
       },
       {
         "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
         "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-        "likes": 146
-      },
-      {
-        "title": "Claude Code (Opus 4.8) が数分固まる問題、188セッション実測したら原因はAPIでもネットワークでもなかった",
-        "url": "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
-        "likes": 41
-      },
-      {
-        "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
-        "url": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
-        "likes": 102
-      },
-      {
-        "title": "10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由",
-        "url": "https://zenn.dev/canly/articles/428767121d7dc2",
-        "likes": 188
-      },
-      {
-        "title": "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
-        "url": "https://zenn.dev/yui/articles/740da24e9ee419",
-        "likes": 86
-      },
-      {
-        "title": "スマートグラス「Even G2」でAIコーディングツールを使う方法",
-        "url": "https://zenn.dev/karaage0703/articles/2d61434fceb867",
-        "likes": 18
-      },
-      {
-        "title": "C# で出来ること一覧 2026年版（.NET 10）",
-        "url": "https://zenn.dev/microsoft/articles/what-can-you-do-on-dotnet10",
-        "likes": 16
+        "likes": 174
       },
       {
         "title": "JavaScriptのメソッドチェインが遅い理由",
         "url": "https://zenn.dev/dameyodamedame/articles/0bd949354baf6e",
-        "likes": 7
+        "likes": 20
       },
       {
-        "title": "dotfiles のススメ; mise と Renovate で開発環境を安全に最新に保つ編",
-        "url": "https://zenn.dev/himkt/articles/b811e1ea846f99",
-        "likes": 29
+        "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+        "url": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+        "likes": 60
       },
       {
-        "title": "とある部長のObsidian",
-        "url": "https://zenn.dev/canly/articles/173479ac3e9824",
-        "likes": 93
+        "title": "Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用",
+        "url": "https://zenn.dev/yui/articles/740da24e9ee419",
+        "likes": 107
       },
       {
-        "title": "Claude Fable 5 が使えるうちに Agent SOP を導入して整備させる",
-        "url": "https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup",
-        "likes": 58
+        "title": "AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた",
+        "url": "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
+        "likes": 130
       },
       {
-        "title": "すでに4800スター、Loop Engineeringとは — “自分の仕事はloopを書くこと”",
-        "url": "https://zenn.dev/acntechjp/articles/0c63b5b08bbdb9",
-        "likes": 86
+        "title": "Claude Code「Fable 5」にローカルLLM用シェル支援CLIを作らせたら、コードより仕事の進め方に驚かされた",
+        "url": "https://zenn.dev/gys/articles/fable5-local-llm-ask-cli",
+        "likes": 118
+      },
+      {
+        "title": "AIエージェントの決済履歴は「戦略ログ」になる ─ 誰が誰に払ったかを隠す private x402 \"SubEtha\"を作った",
+        "url": "https://zenn.dev/peaceandwhisky/articles/6f0b8b672a6f78",
+        "likes": 17
+      },
+      {
+        "title": "複数リポジトリを単一のdev containerで開発する Claude Code 環境を構築する",
+        "url": "https://zenn.dev/finatext/articles/whole-dev-container",
+        "likes": 27
+      },
+      {
+        "title": "Claude Code (Opus 4.8) が数分固まる問題、188セッション実測したら原因はAPIでもネットワークでもなかった",
+        "url": "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+        "likes": 47
+      },
+      {
+        "title": "スマートグラス「Even G2」でAIコーディングツールを使う方法",
+        "url": "https://zenn.dev/karaage0703/articles/2d61434fceb867",
+        "likes": 22
+      },
+      {
+        "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+        "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+        "likes": 22
+      },
+      {
+        "title": "Vitestで始めるシンプルなVRT",
+        "url": "https://zenn.dev/cybozu_frontend/articles/vitest-simple-vrt",
+        "likes": 16
       }
     ],
     "topics": {
       "ai": [
         {
-          "title": "メール返信のAI感が消えない理由と、Few-shotで文体を寄せる運用",
-          "url": "https://zenn.dev/every_ai_recipe/articles/email-reply-sound-like-you",
+          "title": "LLMのハルシネーションを貼る前に減らす、3段階セルフチェックの運用",
+          "url": "https://zenn.dev/every_ai_recipe/articles/ai-hallucination-check-3-questions",
           "likes": 0
         },
         {
-          "title": "「あなたの質問が矛盾を誘発した」——最強モデルFable 5を詰めたら逆ギレされた話【ログ全文公開】",
-          "url": "https://zenn.dev/taka4rest/articles/20260707_fable5_verification",
+          "title": "OCR・VLM のための Eval 設計、1 年やってわかったこと",
+          "url": "https://zenn.dev/davidvl/articles/c8710110e342c9",
           "likes": 0
         },
         {
-          "title": "「それらしさ」から離れるために ― 生成AIを灯台に見立てる",
-          "url": "https://zenn.dev/mrksye/articles/fd7c27e900c627",
+          "title": "ソフトウェア工学のRising Sea — 代数幾何でソフトウェア工学を作り直す",
+          "url": "https://zenn.dev/iroha1203/articles/27d3d934b10fd5",
           "likes": 0
         },
         {
-          "title": "話しかけていないAIが、18分考えた末に『お別れの独白』を始めた — 司令塔AIが実行計画を捨てた日の記録",
-          "url": "https://zenn.dev/idonthaveapen/articles/ai-commander-monologue-derailment",
+          "title": "AIへの頼み方が正反対になった　失敗を自分で仕組みに変える自己拡張ナレッジベース",
+          "url": "https://zenn.dev/satoyoshi/articles/self-extending-knowledge-base",
           "likes": 0
         },
         {
-          "title": "AI駆動開発研究日誌 #5 — Studioくん、テスト設計の亡霊を守護霊にする",
-          "url": "https://zenn.dev/frb_tamasub/articles/ai-driven-development-diary-05-test-design-spirit",
+          "title": "「AI を観る AI」Argosvix を公開しました — Claude / Cursor から会話で操作できるエージェント観測ツール",
+          "url": "https://zenn.dev/argosvix/articles/ae31a4a9b5f9d4",
           "likes": 0
         },
         {
-          "title": "【合格体験記・解説】AWS認定 Generative AI Developer - Professional (AIP-C01)",
-          "url": "https://zenn.dev/machisata/articles/75f6582c5bed8f",
+          "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
+          "url": "https://zenn.dev/kashioka/articles/7e02592d222990",
           "likes": 0
         },
         {
-          "title": "Claude Code のモデル選択──Opus / Sonnet / Haiku をタスクとコストで使い分ける",
-          "url": "https://zenn.dev/stockdev_sho/articles/8a9df3a1cb6001",
+          "title": "吝嗇家のためのAI活用 - ChatGPT + Ticket Driven Development",
+          "url": "https://zenn.dev/philomagi/articles/ai-development-for-miser",
           "likes": 0
         },
         {
-          "title": "\"続いているから、続けている ── その支払いが今も要るかを、惰性の強さから見つける道具\"",
-          "url": "https://zenn.dev/hiroshift/articles/c7201aeaaa656f",
+          "title": "カニでもわかるCMOSアナログ回路の1年目の目次(生成AIに質問用)",
+          "url": "https://zenn.dev/qwerewq/articles/b7013f28d22f61",
           "likes": 0
         }
       ],
       "typescript": [
         {
-          "title": "AppleのLiquid Glassを、Webの“カーソル”に実装する",
-          "url": "https://zenn.dev/satoyoshi/articles/liquid-glass-magnetic-cursor",
+          "title": "Vibe CoderがJS/TSの非同期処理を理解する",
+          "url": "https://zenn.dev/hokke414/articles/4d492789714153",
           "likes": 0
         },
         {
-          "title": "React Native 0.86 プロジェクトの導入手順まとめ（TypeScript / New Architecture / asdf）",
-          "url": "https://zenn.dev/tatsumura/articles/react_native_cli_setup",
+          "title": "useEffectを使うなと言われましても",
+          "url": "https://zenn.dev/dentyu/articles/use-effect-wo-tsukauna-to-iwaretemo",
           "likes": 0
         },
         {
-          "title": "3つのLLMを三角形に配置して議論させる音声AIアプリを2ヶ月作った話（ThreeBody）",
-          "url": "https://zenn.dev/tkt0605/articles/8b8c3f984bada5",
+          "title": "夫婦2人だけのアプリの設計、ぜんぶ見せる（Cloudflare全部乗せ・約1年326コミット）",
+          "url": "https://zenn.dev/kei_lifesystem/articles/futari-design-showcase",
           "likes": 0
         },
         {
-          "title": "TypeScriptの`catch`で`instanceof Error`が必要な理由",
-          "url": "https://zenn.dev/irukaboat/articles/99158b24c2e6ad",
+          "title": "ログイン不要のWeb Pushを匿名 device_token で届ける（Cloudflare Workers）",
+          "url": "https://zenn.dev/aulvem/articles/f73a84beed6253",
           "likes": 1
         },
         {
-          "title": "DDDっぽい設計で終わらない——ドメイン層は\"仕様書\"であるべき",
-          "url": "https://zenn.dev/more_tech_blog/articles/eb6c8809198548",
-          "likes": 3
-        },
-        {
-          "title": "AIはCIを緑にするために「ズル」をする — 型・テスト・リンタの「通したフリ」を止めるGitHub Action三兄弟",
-          "url": "https://zenn.dev/motchalini/articles/99f743d923fb54",
-          "likes": 1
-        },
-        {
-          "title": "NestJSをSWCに全面移行して速くするときに本番で踏んだ5つの罠",
-          "url": "https://zenn.dev/rdlabo/articles/2fbd2e66b2f834",
+          "title": "複数画像を一括で同じサイズにリサイズ＆トリミングできる無料ツールを作った（ブラウザ完結）",
+          "url": "https://zenn.dev/virthus/articles/1df73cdc58c0fb",
           "likes": 0
         },
         {
-          "title": "[Mastra Announce] エージェント定義がファイルベースに——規約による構造化でコードを書かずに AI エージェントを組み立てる",
-          "url": "https://zenn.dev/shiromizuj/articles/945e1e9d275c7d",
+          "title": "ADRのlinterを作って、初めてnpmパッケージを公開した話",
+          "url": "https://zenn.dev/xtone/articles/madr-lint-first-npm-publish",
           "likes": 1
+        },
+        {
+          "title": "MCP Appsホストを自作する: SDK同梱AppBridgeでチャット内UIを動かすまで",
+          "url": "https://zenn.dev/lnest_knowledge/articles/mcp-apps-verification",
+          "likes": 1
+        },
+        {
+          "title": "ローカルSNS投稿コネクタでCookieを預からない設計：ブラウザプロファイル境界とMCPの役割",
+          "url": "https://zenn.dev/agentmemories/articles/local-sns-connector-cookie-boundary",
+          "likes": 0
         }
       ],
       "security": [
         {
-          "title": "「過検知の許容」から「疑わしきは罰せず」へ：あるコンテンツサイトのスクレイピング対策とセキュリティ再構築の記録",
-          "url": "https://zenn.dev/faliye/articles/97127415e16afc",
+          "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
+          "url": "https://zenn.dev/kashioka/articles/7e02592d222990",
           "likes": 0
         },
         {
-          "title": "Windows でも arp-scan がしたい",
-          "url": "https://zenn.dev/19931/articles/a3390fe9c13264",
+          "title": "【Offsec】OSWE合格体験記",
+          "url": "https://zenn.dev/taksecbe/articles/oswe-success",
+          "likes": 0
+        },
+        {
+          "title": "自作CLIをMCPサーバ化する2つの方法: subprocess版と直結版で940倍差が出た話",
+          "url": "https://zenn.dev/kenimo49/articles/cli-mcp-server-subprocess-vs-library",
+          "likes": 0
+        },
+        {
+          "title": "ローカルSNS投稿コネクタでCookieを預からない設計：ブラウザプロファイル境界とMCPの役割",
+          "url": "https://zenn.dev/agentmemories/articles/local-sns-connector-cookie-boundary",
+          "likes": 0
+        },
+        {
+          "title": "SRE NEXT 2026直前！Resilire インフラチームの取り組み紹介 | Resilire Tech Blog",
+          "url": "https://zenn.dev/resilire/articles/202607-infra-cloud-dev-and-sha-pinning",
           "likes": 1
         },
         {
-          "title": "ハッキングラボPotatoサーバーのハッキング",
-          "url": "https://zenn.dev/zoetzak4/articles/6e22c8049cacc8",
+          "title": "顔ピッで守る。エンジニア目指して知った「なぜパスワード使い回しがダメか」を一般向けに全部書く",
+          "url": "https://zenn.dev/miki_mini/articles/3722c4fd0397f9",
           "likes": 0
         },
         {
-          "title": "#25 CISSPで学ぶセキュリティ「データライフサイクル1」",
-          "url": "https://zenn.dev/ameshi/articles/cissp-security-025",
-          "likes": 0
+          "title": "非エンジニアがAIセキュリティCTF『Gandalf Adventure』で遊んでみた（Lv3攻略 / write up）",
+          "url": "https://zenn.dev/na417/articles/b38d479e2b779f",
+          "likes": 1
         },
         {
-          "title": "RPKIのROAとorigin validation——valid / invalid / not foundを実際に見る",
-          "url": "https://zenn.dev/you2h/articles/protocol-lab-rpki-04",
-          "likes": 0
-        },
-        {
-          "title": "同じprefixを2つのASが広告する——competing originとroute leakの入口",
-          "url": "https://zenn.dev/you2h/articles/protocol-lab-bgp-03",
-          "likes": 0
-        },
-        {
-          "title": "AIツールの社内審査は「依存ライブラリの選定」と同じ枠組みで考えられる",
-          "url": "https://zenn.dev/aiasist/articles/6397103a32d5cd",
-          "likes": 0
-        },
-        {
-          "title": "\"生成AIの社内ルールを「禁止リスト」で終わらせないための運用設計\"",
-          "url": "https://zenn.dev/aiasist/articles/603ad908b5ddca",
-          "likes": 0
+          "title": "T3MP3ST紹介 手元のAIコーディングエージェントを脆弱性ハンターに変える",
+          "url": "https://zenn.dev/salt2/articles/t3mp3st-ai-7da8aad6",
+          "likes": 2
         }
       ]
     }
   },
   "hackernews": [
     {
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://news.ycombinator.com/item?id=48802535",
-      "points": 347,
-      "comments": 131
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://news.ycombinator.com/item?id=48816883",
+      "points": 557,
+      "comments": 128
     },
     {
-      "title": "Resetting Xbox",
-      "url": "https://news.ycombinator.com/item?id=48804993",
-      "points": 328,
-      "comments": 282
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://news.ycombinator.com/item?id=48819008",
+      "points": 429,
+      "comments": 193
     },
     {
-      "title": "Building relationships with customers through support didn't turn out as hoped",
-      "url": "https://news.ycombinator.com/item?id=48799929",
-      "points": 315,
-      "comments": 180
+      "title": "98% isn't much",
+      "url": "https://news.ycombinator.com/item?id=48816959",
+      "points": 415,
+      "comments": 266
     },
     {
-      "title": "Road to Elm 1.0",
-      "url": "https://news.ycombinator.com/item?id=48803364",
-      "points": 273,
-      "comments": 126
+      "title": "Microsoft fire idTech team at Id software",
+      "url": "https://news.ycombinator.com/item?id=48819244",
+      "points": 395,
+      "comments": 398
     },
     {
-      "title": "Nintendo announces new product revisions in Europe with replaceable batteries",
-      "url": "https://news.ycombinator.com/item?id=48804193",
-      "points": 272,
-      "comments": 171
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "url": "https://news.ycombinator.com/item?id=48816956",
+      "points": 388,
+      "comments": 142
     },
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://news.ycombinator.com/item?id=48805624",
-      "points": 222,
-      "comments": 162
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://news.ycombinator.com/item?id=48818311",
+      "points": 232,
+      "comments": 70
     },
     {
-      "title": "Introduction to Genomics for Engineers",
-      "url": "https://news.ycombinator.com/item?id=48760424",
-      "points": 202,
-      "comments": 33
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://news.ycombinator.com/item?id=48819608",
+      "points": 213,
+      "comments": 36
     },
     {
-      "title": "Aluminum foil (2021)",
-      "url": "https://news.ycombinator.com/item?id=48804297",
-      "points": 199,
-      "comments": 94
+      "title": "China sentences official to death for taking $325M in bribes",
+      "url": "https://news.ycombinator.com/item?id=48820220",
+      "points": 187,
+      "comments": 205
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://news.ycombinator.com/item?id=48808482",
-      "points": 172,
-      "comments": 82
-    },
-    {
-      "title": "Clojure 1.13 adds support for checked keys",
-      "url": "https://news.ycombinator.com/item?id=48767211",
-      "points": 157,
-      "comments": 34
-    },
-    {
-      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-      "url": "https://news.ycombinator.com/item?id=48803762",
-      "points": 152,
-      "comments": 104
-    },
-    {
-      "title": "Should DayQuil Be Legal?",
-      "url": "https://news.ycombinator.com/item?id=48806289",
-      "points": 127,
-      "comments": 171
-    },
-    {
-      "title": "A global workspace in language models",
-      "url": "https://news.ycombinator.com/item?id=48808002",
-      "points": 101,
+      "title": "Astro 7.0",
+      "url": "https://news.ycombinator.com/item?id=48821653",
+      "points": 112,
       "comments": 27
     },
     {
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://news.ycombinator.com/item?id=48806410",
-      "points": 92,
-      "comments": 5
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://news.ycombinator.com/item?id=48815982",
+      "points": 100,
+      "comments": 211
     },
     {
-      "title": "Egypt Is Building a New Nile",
-      "url": "https://news.ycombinator.com/item?id=48779274",
-      "points": 90,
-      "comments": 25
+      "title": "The revenge of the philosophy majors",
+      "url": "https://news.ycombinator.com/item?id=48818544",
+      "points": 100,
+      "comments": 156
     },
     {
-      "title": "Pros and Cons of Solo Development",
-      "url": "https://news.ycombinator.com/item?id=48808508",
-      "points": 77,
-      "comments": 26
+      "title": "Jim's TrueType QR Code Font",
+      "url": "https://news.ycombinator.com/item?id=48820119",
+      "points": 81,
+      "comments": 7
     },
     {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "url": "https://news.ycombinator.com/item?id=48805965",
-      "points": 68,
-      "comments": 32
-    },
-    {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://news.ycombinator.com/item?id=48807225",
-      "points": 65,
+      "title": "Why we built yet another Postgres connection pooler",
+      "url": "https://news.ycombinator.com/item?id=48819308",
+      "points": 78,
       "comments": 13
     },
     {
-      "title": "1k Words: A Writing Contest",
-      "url": "https://news.ycombinator.com/item?id=48806073",
-      "points": 63,
-      "comments": 30
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://news.ycombinator.com/item?id=48821576",
+      "points": 67,
+      "comments": 14
     },
     {
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "url": "https://news.ycombinator.com/item?id=48806575",
-      "points": 59,
+      "title": "Automating AI Away",
+      "url": "https://news.ycombinator.com/item?id=48818937",
+      "points": 62,
+      "comments": 33
+    },
+    {
+      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "url": "https://news.ycombinator.com/item?id=48820022",
+      "points": 49,
+      "comments": 8
+    },
+    {
+      "title": "l: A new runtime for k and q",
+      "url": "https://news.ycombinator.com/item?id=48821378",
+      "points": 46,
+      "comments": 26
+    },
+    {
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "url": "https://news.ycombinator.com/item?id=48791505",
+      "points": 42,
       "comments": 14
+    },
+    {
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://news.ycombinator.com/item?id=48821749",
+      "points": 35,
+      "comments": 5
+    },
+    {
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://news.ycombinator.com/item?id=48821848",
+      "points": 33,
+      "comments": 6
     }
   ],
   "hatena": {
     "it": [
       {
-        "title": "クレカ決済代行の全東信が破産、端末が使用不可に　負債は1259億円で今年最大──帝国データバンク",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/06/news127.html",
-        "bookmarks": 179
+        "title": "Windows 11で空き容量が0バイトになる恐れ　影響を確認して速やかに対策を",
+        "url": "https://news.mynavi.jp/techplus/article/20260707-4672951/",
+        "bookmarks": 159
       },
       {
-        "title": "スマホゲーのKLab、防衛産業に参入　アラブで対ドローン防衛システム導入推進へ　提携先は「非開示」",
-        "url": "https://www.itmedia.co.jp/news/articles/2607/06/news128.html",
-        "bookmarks": 91
+        "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
+        "url": "https://anond.hatelabo.jp/20260707183302",
+        "bookmarks": 88
       },
       {
-        "title": "無料の画像生成AI「Krea 2」が話題　実写もアニメもこなす新勢力 (1/4)",
-        "url": "https://ascii.jp/elem/000/004/416/4416343/",
-        "bookmarks": 143
+        "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
+        "url": "https://ascii.jp/elem/000/004/416/4416397/",
+        "bookmarks": 111
       },
       {
-        "title": "令和8年度 応用情報技術者試験、高度試験及び情報処理安全確保支援士試験の申込受付期間及び試験実施期間について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
-        "url": "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_kikan.html",
-        "bookmarks": 84
+        "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+        "url": "https://zenn.dev/knowledgesense/articles/283244af941a2d",
+        "bookmarks": 44
       },
       {
-        "title": "mise + age で環境変数を暗号化する",
-        "url": "https://blog.sh1ma.dev/articles/20260706_mise_age_encrypt_env/",
-        "bookmarks": 41
-      },
-      {
-        "title": "システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG",
-        "url": "https://techblog.zozo.com/entry/architecture-diagram-with-claude-code",
-        "bookmarks": 249
-      },
-      {
-        "title": "かつて成功したブログ100個のうち約半数はGoogleのAI導入などで検索トラフィックの85％以上を失った",
-        "url": "https://gigazine.net/news/20260706-great-blog-collapse-google-ai/",
-        "bookmarks": 40
-      },
-      {
-        "title": "KDDI、ISP向けメールシステムへの不正アクセスで続報。1223万件のメールアドレス、762万件のパスワードが漏えい　",
-        "url": "https://internet.watch.impress.co.jp/docs/news/2122740.html",
-        "bookmarks": 75
-      },
-      {
-        "title": "初音ミクの生みの親がNHK「視点・論点」に出演　生成AIと創作活動を語る",
-        "url": "https://kai-you.net/article/95887",
+        "title": "陸上自衛隊が使用したマルウェア入りUSBメモリについてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/08/002522",
         "bookmarks": 16
       },
       {
-        "title": "生成AIのイラストって一周まわってジジババ臭いものになってない？→「AI絵は中高年が使うもの」という印象論は危ういが、露骨なマスピ絵への拒否感は世代間で違う？",
-        "url": "https://togetter.com/li/2717551",
-        "bookmarks": 40
+        "title": "AIコーディング時代の生き抜き方",
+        "url": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+        "bookmarks": 44
       },
       {
-        "title": "手持ちのデバイスすべてに入れておきたいお手軽ファイル共有ツール「LocalSend」／デスクトップ・モバイル対応、クラウド・アカウント不要、同じWi-Fiにつなぐだけ！【レビュー】",
-        "url": "https://forest.watch.impress.co.jp/docs/review/2122218.html",
-        "bookmarks": 231
-      },
-      {
-        "title": "提供が再開された「Claude Fable 5」の使いこなし術を解説した書籍が無料公開／Anthropic公式ガイドの日本語図解『Claude Fable 5 プロンプトエンジニアリングガイド』【Book Watch/ニュース】",
-        "url": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2122739.html",
-        "bookmarks": 41
-      },
-      {
-        "title": "技術を追うのがしんどくなった40代エンジニアは、何を学べばいいのか｜ゆふかげ | 40代フリーランスITエンジニア",
-        "url": "https://note.com/yufukage/n/n652207e2e9f9",
+        "title": "「LTは5分」とわたしが言い続ける理由 - 941::blog",
+        "url": "https://blog.kushii.net/archives/2026/07/07/235638",
         "bookmarks": 9
       },
       {
-        "title": "1Passwordは、あなたのマスターパスワードを一度も受信していません - Qiita",
-        "url": "https://qiita.com/kenimo49/items/d1151389d17e50ad5564",
+        "title": "KDDIのISP事業者向けメールシステムへの不正アクセスについてまとめてみた - piyolog",
+        "url": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
+        "bookmarks": 39
+      },
+      {
+        "title": "ローカル処理で画像から3Dモデルを生成する「Pixal3D」を使いこなす！【Blender ウォッチング】",
+        "url": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2123103.html",
         "bookmarks": 5
       },
       {
-        "title": "[スタパ齋藤の「スタパトロニクスMobile」] \"速い!お手軽!そしてキレイ!\"の三拍子が揃った「Xioamiのリューター」は、ケースのストラップホール開けにピッタリだ!!!",
-        "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2122220.html",
-        "bookmarks": 4
+        "title": "マッキンゼーが「人間がAIに勝てる」3つのスキルを特定。「若手が磨くべき分野」はこれだった | Business Insider Japan",
+        "url": "https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do-a/",
+        "bookmarks": 22
+      },
+      {
+        "title": "ソフトウェアの見積もり - kawasima",
+        "url": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation=",
+        "bookmarks": 658
+      },
+      {
+        "title": "「AIはもう十分賢い」　活用のボトルネックは「モデル性能」から「評価」へ　米データ基盤開発企業のAI研究者に聞く",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
+        "bookmarks": 21
+      },
+      {
+        "title": "デザイナーの脳内をコピーして、誰でも90点以上のUIを作れるようにする｜トイ",
+        "url": "https://note.com/toitoi1618/n/ndf35dbd2585b",
+        "bookmarks": 7
+      },
+      {
+        "title": "AI Agentに自由な開発環境を渡す、Proxmox+LXCで。",
+        "url": "https://zenn.dev/uzulla/articles/91272997a7c668",
+        "bookmarks": 23
+      },
+      {
+        "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2122988.html",
+        "bookmarks": 52
       }
     ]
   }
