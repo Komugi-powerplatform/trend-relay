@@ -1,411 +1,411 @@
 {
-  "generated_at": "2026-09-18T21:14Z",
+  "generated_at": "2026-09-19T20:59Z",
   "errors": [],
   "zenn": {
     "trending": [
       {
-        "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
-        "url": "https://zenn.dev/nwn/articles/824026c76116e0",
-        "likes": 141
-      },
-      {
         "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
         "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-        "likes": 200
+        "likes": 366
       },
       {
-        "title": "jev 同士に五目並べで対戦させた",
-        "url": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
-        "likes": 77
-      },
-      {
-        "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
-        "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
-        "likes": 195
+        "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+        "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+        "likes": 152
       },
       {
         "title": "Jevでハーネスエンジニアリング",
         "url": "https://zenn.dev/watany/articles/36e11a20ce3743",
-        "likes": 68
+        "likes": 96
+      },
+      {
+        "title": "jev 同士に五目並べで対戦させた",
+        "url": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
+        "likes": 83
       },
       {
         "title": "WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。",
         "url": "https://zenn.dev/chot/articles/268804cd6694ab",
-        "likes": 79
+        "likes": 99
       },
       {
-        "title": "認知負債の未来は？",
-        "url": "https://zenn.dev/kabeya/articles/future-of-cognitive-debt",
-        "likes": 18
-      },
-      {
-        "title": "気軽にDGX Sparkでapt upgradeしたら壊れた話",
-        "url": "https://zenn.dev/alpha_omega/articles/3f3ea4d14a0234",
-        "likes": 19
+        "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+        "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
+        "likes": 210
       },
       {
         "title": "AI ネイティブなデータ分析基盤を作った話",
         "url": "https://zenn.dev/pksha/articles/5a1dc6470019d6",
-        "likes": 34
+        "likes": 50
+      },
+      {
+        "title": "認知負債の未来は？",
+        "url": "https://zenn.dev/kabeya/articles/future-of-cognitive-debt",
+        "likes": 25
+      },
+      {
+        "title": "気軽にDGX Sparkでapt upgradeしたら壊れた話",
+        "url": "https://zenn.dev/alpha_omega/articles/3f3ea4d14a0234",
+        "likes": 21
+      },
+      {
+        "title": "1年半かけて育ててきたAI開発フロー",
+        "url": "https://zenn.dev/sprix_it/articles/db685b8fd6bffe",
+        "likes": 23
       },
       {
         "title": "Xcodeのプロジェクト設定をJSONにする",
         "url": "https://zenn.dev/d_date/articles/b1a7baa74b77da",
-        "likes": 14
-      },
-      {
-        "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
-        "url": "https://zenn.dev/tenkei/articles/9f8921926bb003",
-        "likes": 57
+        "likes": 15
       },
       {
         "title": "作るものが決まらないのは、発想力のせいなのか？：AIハッカソンで優勝したときのアイデアの出し方",
         "url": "https://zenn.dev/usen_ict/articles/a9051de6bf2b84",
-        "likes": 27
+        "likes": 34
       },
       {
-        "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
-        "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
-        "likes": 132
+        "title": "就活用DirectX12アクションゲーム作成　第三十二回",
+        "url": "https://zenn.dev/seisei89628/articles/b505300dc8eaac",
+        "likes": 2
+      },
+      {
+        "title": "1日の開発の流れをスキル化してみたら、想像以上に快適だった",
+        "url": "https://zenn.dev/tenkei/articles/9f8921926bb003",
+        "likes": 61
       },
       {
         "title": "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
         "url": "https://zenn.dev/jtcc/articles/7e74fef42580a1",
-        "likes": 17
-      },
-      {
-        "title": "dbt Charts触ってみた",
-        "url": "https://zenn.dev/churadata/articles/95b6008df65cff",
-        "likes": 9
+        "likes": 24
       }
     ],
     "topics": {
       "ai": [
         {
-          "title": "契約書リスクの指摘、観点を絞った指示は効果が薄かった",
-          "url": "https://zenn.dev/every_ai_recipe/articles/contract-clause-check-3-points",
+          "title": "【コピペOK】Claude Code の permissions おすすめ設定と、allow / ask / deny の分け方",
+          "url": "https://zenn.dev/tmasuyama1114/articles/claude_code_permissions_recommended",
           "likes": 0
         },
         {
-          "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
-          "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+          "title": "Jev＝較正済み確信度を返す閉世界分類器 — System One Modelの設計論点",
+          "url": "https://zenn.dev/xim2jp_tokyo/articles/8445fb9942f4ac",
           "likes": 0
         },
         {
-          "title": "Zenn の本の棚の末尾は「不人気」ではなく「未採点」だった — 4227 冊を全数で数えた記録",
-          "url": "https://zenn.dev/ioriorigin/articles/zenn-book-shelf-unscored-zone",
+          "title": "バグ報告を出したら、1 分で bot に読まれて 25 分で PR になった",
+          "url": "https://zenn.dev/yasunami_daichi/articles/issue-to-pr-automation",
           "likes": 0
         },
         {
-          "title": "『AIなしで手書きできますか？』は何を測っているのか――AGENTS.md・MCP・Skillsでつくる認知的外骨格",
-          "url": "https://zenn.dev/zapabob/articles/cognitive-exoskeleton-ai-handwriting",
+          "title": "OpenCodeのコンテキストをJevで継続的に剪定するプラグインを作った",
+          "url": "https://zenn.dev/uhu/articles/1007b909714cef",
           "likes": 0
         },
         {
-          "title": "AIが書いた記事を、AI自身の品質チェックが永遠に止め続けていた話",
-          "url": "https://zenn.dev/jworks_hq/articles/87cb447bf96e9a",
-          "likes": 0
-        },
-        {
-          "title": "CopilotとAIワークフロー最適解: MR自動生成 vs レビュー支援",
-          "url": "https://zenn.dev/fd_ai_teacher/articles/tech-20260917150626-1",
+          "title": "実際，ローカルLLMの性能ってどうなの？",
+          "url": "https://zenn.dev/tubesoling/articles/2f58a43ad276cb",
           "likes": 1
         },
         {
-          "title": "ローカルJevの可能性検証",
-          "url": "https://zenn.dev/hakotech/articles/5c2fe2eb8a6051",
+          "title": "自分の概念論文をAIが読めるMCPサーバにする—Mekiki Readerの設計と使い方",
+          "url": "https://zenn.dev/kengotomita/articles/ca6d3d50287434",
           "likes": 1
         },
         {
-          "title": "AIパスポート試験に挑戦してみた",
-          "url": "https://zenn.dev/k_tabuchi/articles/20260826_ai_passport",
+          "title": "AIにアプリを作らせて大丈夫か、30秒で分かる物を作りました。",
+          "url": "https://zenn.dev/kss_cis_basekit/articles/67556fcd073c9f",
+          "likes": 1
+        },
+        {
+          "title": "Jev入門：Choice / Boolean / Scoreとprobability・confidence",
+          "url": "https://zenn.dev/yuzu_krs/articles/71c18d2589d01e",
           "likes": 0
         }
       ],
       "typescript": [
         {
-          "title": "コンビニ払込票の GS1-128、44 桁を渡したら「invalid data」。正解は人が読む表記だった",
-          "url": "https://zenn.dev/y3chi5z/articles/cvs-gs1-128-pass-hrc-not-44-digits",
+          "title": "cve-lite-cliを利用してローカルで完結するフロントエンドの脆弱性管理",
+          "url": "https://zenn.dev/t_o_d/articles/63ef09fd784bf4",
           "likes": 0
         },
         {
-          "title": "そのプロンプト、どのプロジェクトに投げるんでしたっけ — そうだ、Jevで宛先を決めよう",
-          "url": "https://zenn.dev/uehaj/articles/herdr-jev-prompt-router",
+          "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+          "url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+          "likes": 14
+        },
+        {
+          "title": "JevでSQLの危険度を判定するCLIを試した：直接実行前のチェックに使える範囲と使えない範囲",
+          "url": "https://zenn.dev/tonbi_attack/articles/jev-sql-danger-checker",
+          "likes": 0
+        },
+        {
+          "title": "【TypeScript】Branded Typesをもっと便利に、堅牢に：Valofの紹介（前編）",
+          "url": "https://zenn.dev/jo16oh/articles/1c9c0501fb47a3",
           "likes": 1
         },
         {
-          "title": "遊戯王で実践する継承と合成 〜カードテキストは、既に「仕様書」だった〜",
-          "url": "https://zenn.dev/okmethod/articles/96befe87c45d51",
+          "title": "LLM 抽出の自動評価が、言い回しを採点していた",
+          "url": "https://zenn.dev/tomtom55555/articles/d80e8efb8e4088",
           "likes": 0
         },
         {
-          "title": "お金を「預からない」ことで安全を作る — 学生フリマ開発と資金決済法",
-          "url": "https://zenn.dev/fumi3333/articles/azukaranai-anzen-design",
-          "likes": 1
-        },
-        {
-          "title": "【Laravel→TS移行記】Next.jsのAIハーネスで責任のあるコードを生成する",
-          "url": "https://zenn.dev/togihara/articles/7bd51f66e98b16",
+          "title": "Crowi 開発日記 #13 (alpha.20)",
+          "url": "https://zenn.dev/sotarok/articles/crowi-diary-13",
           "likes": 0
         },
         {
-          "title": "Better Auth勉強記録",
-          "url": "https://zenn.dev/gituse/articles/121ba48acd3a8a",
+          "title": "Claude Codeにrm -rf ~/を打たせない。Jevで実行前に審査する",
+          "url": "https://zenn.dev/mistletoe/articles/jev-claude-code-guard",
           "likes": 0
         },
         {
-          "title": "無料でVPN/Proxy/Torを検知するライブラリを作った話",
-          "url": "https://zenn.dev/robot/articles/b4de7aa3168914",
-          "likes": 1
-        },
-        {
-          "title": "Slackの絵文字リアクション、Jevの選択は私と90%一致",
-          "url": "https://zenn.dev/mistletoe/articles/jev-emoji-reaction",
+          "title": "Jevで「自分のルール通りにブックマークを整理する」Chrome拡張を作った",
+          "url": "https://zenn.dev/acorn181/articles/a24f9f359e6f95",
           "likes": 0
         }
       ],
       "security": [
         {
-          "title": "AIが実装する時代はC言語が覇権を取る？",
-          "url": "https://zenn.dev/okamyuji/articles/ai-generated-code-and-c-language",
+          "title": "偽装SYNで、自作アプリにゲートウェイを遮断させてみた",
+          "url": "https://zenn.dev/lafine/articles/399b75c55ad7f1",
           "likes": 0
         },
         {
-          "title": "JFrog Artifactory の認証不備 CVE-2026-82329 を読んだ",
-          "url": "https://zenn.dev/hashitoz/articles/2026-09-05-fleet-devlog-fleet-zenn",
+          "title": "【コピペOK】Claude Code の permissions おすすめ設定と、allow / ask / deny の分け方",
+          "url": "https://zenn.dev/tmasuyama1114/articles/claude_code_permissions_recommended",
+          "likes": 0
+        },
+        {
+          "title": "cve-lite-cliを利用してローカルで完結するフロントエンドの脆弱性管理",
+          "url": "https://zenn.dev/t_o_d/articles/63ef09fd784bf4",
+          "likes": 0
+        },
+        {
+          "title": "日本の主要20ドメインのMTA-STSを調べたら、導入はゼロだった",
+          "url": "https://zenn.dev/ac5net/articles/4ed169eadb6a34",
           "likes": 1
         },
         {
-          "title": "技術発信をはじめることにしました",
-          "url": "https://zenn.dev/st_lab/articles/93325a09719623",
+          "title": "Cloudflare Workers では相手の証明書が読めないので、SSL 証明書チェッカーを VPS の openssl で作った",
+          "url": "https://zenn.dev/omikuji/articles/ssl-checker-workers-openssl-vps",
           "likes": 1
         },
         {
-          "title": "「この動画を見ているということは、私はもう...」の誤爆を避ける方法を考える",
-          "url": "https://zenn.dev/yuo_ota/articles/1a265ac9a374ff",
+          "title": "Jevを企業で使うなら？規約・安全性・導入方法を調べてみた",
+          "url": "https://zenn.dev/yamato_snow/articles/jev-enterprise-security-guide",
           "likes": 1
         },
         {
-          "title": "リポジトリに全部あると思うな——OpenAI侵入事例を読む",
-          "url": "https://zenn.dev/git_dungeon/articles/openai-repository-security-boundaries",
+          "title": "LLMに「死」を判定させない ―遺志を執行するエージェントの設計",
+          "url": "https://zenn.dev/acntechjp/articles/zenn-atonokoto-digital-legacy-agent",
           "likes": 1
         },
         {
-          "title": "フォーラム侵害が社内コードへ届いた理由——SSOの信頼境界を描き直す",
-          "url": "https://zenn.dev/kiri_kunn/articles/6bc7176014fcde",
+          "title": "iPhoneの写真は、アップロードAPIのゲートの手前で縮める",
+          "url": "https://zenn.dev/vaonvn/articles/34c7fc7c403d82",
           "likes": 1
-        },
-        {
-          "title": "検知の次を自動化する Microsoft Sentinel「SOAR Essentials」を整理してみた",
-          "url": "https://zenn.dev/microsoft/articles/sentinel-soar-essentials-solution",
-          "likes": 1
-        },
-        {
-          "title": "Markdownは新しい攻撃ベクトルになった — AIエージェント時代の間接プロンプトインジェクション入門",
-          "url": "https://zenn.dev/sun_asterisk/articles/e774ec49844c5b",
-          "likes": 2
         }
       ]
     }
   },
   "hackernews": [
     {
-      "title": "OpenJev",
-      "url": "https://news.ycombinator.com/item?id=49752041",
-      "points": 492,
-      "comments": 234
-    },
-    {
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://news.ycombinator.com/item?id=49754785",
-      "points": 446,
-      "comments": 197
-    },
-    {
-      "title": "How to Write with an LLM",
-      "url": "https://news.ycombinator.com/item?id=49747070",
-      "points": 312,
-      "comments": 216
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://news.ycombinator.com/item?id=49757520",
-      "points": 290,
-      "comments": 232
-    },
-    {
-      "title": "The scourge of x86 emulation",
-      "url": "https://news.ycombinator.com/item?id=49750094",
-      "points": 263,
-      "comments": 74
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://news.ycombinator.com/item?id=49764791",
+      "points": 1142,
+      "comments": 634
     },
     {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://news.ycombinator.com/item?id=49758736",
-      "points": 241,
-      "comments": 108
+      "points": 1074,
+      "comments": 628
     },
     {
-      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-      "url": "https://news.ycombinator.com/item?id=49750694",
-      "points": 218,
-      "comments": 84
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://news.ycombinator.com/item?id=49765348",
+      "points": 897,
+      "comments": 222
     },
     {
-      "title": "I vibed a proof of Conway's conjecture",
-      "url": "https://news.ycombinator.com/item?id=49755024",
-      "points": 179,
-      "comments": 167
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://news.ycombinator.com/item?id=49754785",
+      "points": 799,
+      "comments": 306
     },
     {
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "url": "https://news.ycombinator.com/item?id=49755160",
-      "points": 155,
-      "comments": 138
+      "title": "How to Write with an LLM",
+      "url": "https://news.ycombinator.com/item?id=49747070",
+      "points": 600,
+      "comments": 368
     },
     {
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "url": "https://news.ycombinator.com/item?id=49759466",
-      "points": 143,
-      "comments": 41
-    },
-    {
-      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-      "url": "https://news.ycombinator.com/item?id=49758028",
-      "points": 122,
-      "comments": 80
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://news.ycombinator.com/item?id=49748553",
-      "points": 121,
-      "comments": 62
-    },
-    {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "url": "https://news.ycombinator.com/item?id=49746406",
-      "points": 117,
-      "comments": 143
-    },
-    {
-      "title": "Minimal Phone 2",
-      "url": "https://news.ycombinator.com/item?id=49749369",
-      "points": 117,
-      "comments": 113
-    },
-    {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "url": "https://news.ycombinator.com/item?id=49757050",
-      "points": 117,
-      "comments": 36
-    },
-    {
-      "title": "How SpaceX streamlined the Raptor engine",
-      "url": "https://news.ycombinator.com/item?id=49746626",
-      "points": 103,
-      "comments": 14
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://news.ycombinator.com/item?id=49763697",
+      "points": 581,
+      "comments": 221
     },
     {
       "title": "Saving another 100TB of RAM",
       "url": "https://news.ycombinator.com/item?id=49758580",
-      "points": 86,
-      "comments": 15
+      "points": 448,
+      "comments": 100
     },
     {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "url": "https://news.ycombinator.com/item?id=49758419",
-      "points": 75,
-      "comments": 41
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://news.ycombinator.com/item?id=49763296",
+      "points": 339,
+      "comments": 145
     },
     {
-      "title": "The first new cat species discovered in 100 years",
-      "url": "https://news.ycombinator.com/item?id=49744704",
-      "points": 68,
-      "comments": 20
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://news.ycombinator.com/item?id=49763987",
+      "points": 320,
+      "comments": 154
     },
     {
-      "title": "Our brain evolved from two primitive nervous systems that merged: Study",
-      "url": "https://news.ycombinator.com/item?id=49755533",
-      "points": 67,
-      "comments": 41
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://news.ycombinator.com/item?id=49763928",
+      "points": 271,
+      "comments": 226
+    },
+    {
+      "title": "The Secret Life of Circuits",
+      "url": "https://news.ycombinator.com/item?id=49720143",
+      "points": 255,
+      "comments": 66
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://news.ycombinator.com/item?id=49766637",
+      "points": 157,
+      "comments": 182
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://news.ycombinator.com/item?id=49766611",
+      "points": 151,
+      "comments": 64
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://news.ycombinator.com/item?id=49730069",
+      "points": 128,
+      "comments": 30
+    },
+    {
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "url": "https://news.ycombinator.com/item?id=49767937",
+      "points": 125,
+      "comments": 78
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://news.ycombinator.com/item?id=49762744",
+      "points": 120,
+      "comments": 29
+    },
+    {
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "url": "https://news.ycombinator.com/item?id=49756121",
+      "points": 78,
+      "comments": 37
+    },
+    {
+      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
+      "url": "https://news.ycombinator.com/item?id=49742697",
+      "points": 71,
+      "comments": 25
+    },
+    {
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://news.ycombinator.com/item?id=49768833",
+      "points": 66,
+      "comments": 51
+    },
+    {
+      "title": "Communication by means of modulated Johnson noise",
+      "url": "https://news.ycombinator.com/item?id=49736823",
+      "points": 51,
+      "comments": 27
     }
   ],
   "hatena": {
     "it": [
       {
-        "title": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ",
-        "url": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
-        "bookmarks": 157
+        "title": "Jev 図解ガイド",
+        "url": "https://jev-guide.take-otani.workers.dev/",
+        "bookmarks": 99
       },
       {
-        "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-        "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-        "bookmarks": 235
+        "title": "東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG",
+        "url": "https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info",
+        "bookmarks": 61
       },
       {
-        "title": "ネコの新種、100年以上ぶりに発見",
-        "url": "https://japan.cnet.com/article/35252798/",
-        "bookmarks": 157
+        "title": "AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nd-20260918de50982",
+        "bookmarks": 48
       },
       {
-        "title": "【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z",
-        "url": "https://note.com/shi3zblog/n/n6d4fbe03218e",
-        "bookmarks": 17
+        "title": "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
+        "url": "https://zenn.dev/jtcc/articles/7e74fef42580a1",
+        "bookmarks": 63
       },
       {
-        "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ",
-        "url": "https://togetter.com/li/2747370",
-        "bookmarks": 25
+        "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+        "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+        "bookmarks": 77
       },
       {
-        "title": "出版取次の日販、米AI企業に書籍を大量販売か　業界団体が説明要求（朝日新聞） - Yahoo!ニュース",
-        "url": "https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178",
-        "bookmarks": 5
+        "title": "その Lambda、8分で 管理者権限まで奪われます",
+        "url": "https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu",
+        "bookmarks": 56
       },
       {
-        "title": "「1合」という単位にとらわれないご飯の炊き方｜ツジメシ",
-        "url": "https://note.com/tsujimeshi/n/nf81f3a9daa1f",
-        "bookmarks": 267
+        "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+        "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+        "bookmarks": 94
       },
       {
-        "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
-        "url": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
-        "bookmarks": 6
+        "title": "データセンター、お金を払わず水を1億1000万リットル使用 | ギズモード・ジャパン",
+        "url": "https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/",
+        "bookmarks": 4
       },
       {
-        "title": "Qwen3.8-27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2142052.html",
-        "bookmarks": 79
+        "title": "私たちはなぜキーボードでローマ字入力をしているのか - 株式会社ナカニシヤ出版",
+        "url": "https://www.nakanishiya.co.jp/book/b10205207.html",
+        "bookmarks": 13
       },
       {
-        "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
-        "url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
-        "bookmarks": 181
+        "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
+        "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
+        "bookmarks": 149
       },
       {
-        "title": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
-        "bookmarks": 26
+        "title": "Androidでおサイフケータイを使いたくない理由　初期化で消えないデータと売却時の落とし穴",
+        "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+        "bookmarks": 198
       },
       {
-        "title": "好き嫌い.comは運営者が利用者のことどうなっても良い感じらしくて開示が爆速らしい「運営者と直接やりとりすれば2000円で投稿者のIPアドレスを爆速で教えてくれます」",
-        "url": "https://togetter.com/li/2747247",
-        "bookmarks": 25
+        "title": "GitHub - eval-exec/neomacs: NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine. Aiming for modern design & multi-threaded Elisp, 10x performance, zero-pause concurrent GC and 100% Emacs compatibility.",
+        "url": "https://github.com/eval-exec/neomacs",
+        "bookmarks": 19
       },
       {
-        "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
-        "url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
-        "bookmarks": 111
+        "title": "Lambda MicroVMsで実現するServerlessなCodex App Server｜Japan Digital Design, Inc.",
+        "url": "https://note.com/japan_d2/n/n618cb3439486",
+        "bookmarks": 4
       },
       {
-        "title": "Claude Codeのプロジェクトが刷新、「あとはよろしく」で並行作業し結果を生む",
-        "url": "https://pc.watch.impress.co.jp/docs/news/2142119.html",
-        "bookmarks": 30
+        "title": "GitHub - uehaj/jev-semgrep: grep by meaning, across languages. TypeSafe Jev scores every line against a meaning; combine meanings with AND/OR/NOT. 意味で探す grep。日本語で英語を、英語で日本語を検索できる",
+        "url": "https://github.com/uehaj/jev-semgrep",
+        "bookmarks": 8
       },
       {
-        "title": "【窓の杜 30周年記念インタビュー】 高校時代のゲーム開発から独立、そして米国移住へ。定番エディタ「EmEditor」開発者が貫いた「ニッチで世界一」という哲学",
-        "url": "https://forest.watch.impress.co.jp/docs/serial/30thinterview/2121255.html",
-        "bookmarks": 42
+        "title": "AWS PrivateLink の新機能「トンネルエンドポイント」を試してみた | DevelopersIO",
+        "url": "https://dev.classmethod.jp/articles/aws-privatelink-tunnel-endpoint-cross-account/",
+        "bookmarks": 4
       }
     ]
   }
